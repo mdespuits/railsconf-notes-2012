@@ -106,7 +106,7 @@ Curious -> Supsicious is usually a one way street.
 
 Now that we know, we can layer some cognitive response on top of it.
 
-    I will not fear change, I will not fight progress. -DH
+    I will not fear change, I will not fight progress. -DHH
 
 * Stay young.
 * Stay curious.
