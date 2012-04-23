@@ -98,7 +98,7 @@ _Problem_
 
 _Solution_
 
-* Remove custom view from Ap
+* Remove custom view from App
 * Use `requires_extended_address?` helper in Engine wherever the App used same logic
 
 ### 3. Pattern - Expose Partial
@@ -154,7 +154,7 @@ __Engines are better when:__
 * Preferring to avoiding network and infrastructure overhead over establishing a service
 * Wanting to quickly extract and reuse a feature
 
-__Services are better when:
+__Services__ are better when:
 
 * Reusing larger MVC features that depend on domain data
 * Need to consume feature in another programming language or outside the organization boundaries
