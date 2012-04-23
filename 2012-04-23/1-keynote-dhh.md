@@ -51,6 +51,7 @@ These lost data, introduced a bug, upgrading took longer than expected.
 No one *likes* to lose data!
 
 This scenario is a hinderance to progress.
+
 1. Why did you change the system!?
 2. It was working before!
 3. "If it ain't broke, don't fix it!"
