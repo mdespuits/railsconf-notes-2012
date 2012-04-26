@@ -1,5 +1,5 @@
 # Extending Ruby with Ruby
-## Speaker: Michael Fairley ([@michaelfairley](http://github.com/michaelfailey))
+## Speaker: Michael Fairley ([@michaelfairley](http://github.com/michaelfairley))
 
 ### Shoebox
 
