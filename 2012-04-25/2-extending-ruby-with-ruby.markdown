@@ -36,7 +36,9 @@ class Transactional < Decorator
 end
 ```
 
-`gem install [method_decorators](http://github.com/michaelfairley/method_decorators)`
+### Install [method_decorators](http://github.com/michaelfairley/method_decorators)
+
+    gem install method_decorators
 
 ### Scala
 
